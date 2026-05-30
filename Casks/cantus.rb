@@ -1,6 +1,6 @@
 cask "cantus" do
-  version "1.2.0"
-  sha256 "97c86c10d478fcfa2777bb9bd092eb17cf7f01e470a91529e93a700d457f2ac7"
+  version "1.2.1"
+  sha256 "caa9d36ca3fca496c3aea685b253c95e8bf07dca497fcc7a2249d6a61ef0bb39"
 
   url "https://github.com/manan45/Cantus/releases/download/v#{version}/Cantus_#{version}_aarch64.dmg",
       verified: "github.com/manan45/Cantus/"
